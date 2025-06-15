@@ -78,6 +78,16 @@ How It Works:
 
 - You can toggle the theme using a button in the Topbar.jsx.
 
+```
+### Login Page
+![Screenshot from 2025-06-15 22-11-31](https://github.com/user-attachments/assets/d8adb830-f385-4fc3-8550-75853069489a)
+
+### Dashboard 
+![Screenshot from 2025-06-15 22-11-58](https://github.com/user-attachments/assets/38f46554-cd81-49cf-a8ef-4300a626119b)
+
+### Users
+![Screenshot from 2025-06-15 22-12-45](https://github.com/user-attachments/assets/2395d526-db5b-4784-a153-d5a98636d1cf)
+
 
 
 
